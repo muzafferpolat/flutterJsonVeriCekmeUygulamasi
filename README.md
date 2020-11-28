@@ -1,2 +1,0 @@
-# flutterJsonVeriCekmeUygulamasi
-Flutter uygulaması
